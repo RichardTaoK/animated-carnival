@@ -1,2 +1,2 @@
-# animated-carnival
+# self-ts-demo
 practice ts topics
